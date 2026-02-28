@@ -97,6 +97,7 @@ htdocs/
 
 ```html
 <!-- Tek satır kod ile chat widget'ını ekleyin -->
+<script src="https://cdn.ably.com/lib/ably.min-2.js"></script>
 <script data-name="Chat-Widget"
         data-cfasync="false"
         src="https://siteniz.com/widget.js"
